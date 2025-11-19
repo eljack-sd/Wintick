@@ -56,7 +56,7 @@ class Comentarios extends \yii\db\ActiveRecord
             'ticket_id' => 'Ticket ID',
             'usuario_id' => 'Usuario ID',
             'comentario' => 'Comentario',
-            'tipo' => 'Tipo',
+            'tipo' => 'tipo',
             'fecha_creacion' => 'Fecha Creacion',
         ];
     }
